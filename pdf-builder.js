@@ -77,7 +77,7 @@
             html += fillInBlock('Übung 3 — 2 pronume (Akkusativ vor Dativ = es ihm) ⭐', 'RĂSTURNAT față de substantive: la 2 pronume Akkusativul e primul (es ihm, nu ihm es).', ex3Data);
         }
         if (typeof ex4Data !== 'undefined') {
-            html += diktatBlock('Übung 4 — Diktat (Hörverstehen, voce Hedda)', 'Atenție la ordinea obiectelor (dem Kind den Ball · es dem Kind · es ihm).', ex4Data);
+            html += diktatBlock('Übung 4 — Diktat (Hörverstehen)', 'Atenție la ordinea obiectelor (dem Kind den Ball · es dem Kind · es ihm).', ex4Data);
         }
         if (typeof ex5Data !== 'undefined') {
             html += translateBlock('Übung 5 — Traducere RO → DE', 'Mix: 2 substantive (Dat<Akk) · substantiv+pronume · 2 pronume (es ihm).', ex5Data);
